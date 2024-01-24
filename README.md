@@ -22,14 +22,14 @@ Utilizes React Hooks, such as useState for state management.</p>
 <b>Alert Component:</b>
 
 <p>Handles the display of temporary alerts based on user actions.</p>
-Styling:
+<b>Styling:</b>
 
-The project features a visually appealing layout with well-designed components.
-Utilizes CSS for styling, providing a cohesive and user-friendly interface.
-Styling Highlights:
-Color Scheme:
+<p>The project features a visually appealing layout with well-designed components.
+Utilizes CSS for styling, providing a cohesive and user-friendly interface.</p>
+<h2>Styling Highlights:</h2>
+<b>Color Scheme:</b>
 
-The project employs a harmonious color scheme, with shades of purple and pink contributing to a pleasant visual experience.
-Responsive Design:
+<p>The project employs a harmonious color scheme, with shades of purple and pink contributing to a pleasant visual experience.</p>
+<b>Responsive Design:</b>
 
-The application includes responsive design elements, ensuring a seamless experience across different devices.
+<p>The application includes responsive design elements, ensuring a seamless experience across different devices.</p>
