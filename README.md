@@ -1,36 +1,70 @@
-# React.js TODO List Project Summary:
+# Getting Started with Create React App
 
-<b>Overview:</b>
-This React.js TODO List project is a simple yet effective task management application. It provides users with a straightforward interface to add, edit, and delete tasks, accompanied by dynamic alert notifications for successful actions and warnings.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<h5>Key Features:</h5>
-Add and Edit Tasks:
-<p>Users can add new tasks to the list through an input field.
-Existing tasks can be edited, with the editing state visually indicated.</p>
+## Available Scripts
 
-<b>Delete Tasks:</b>
-<p>Tasks can be removed from the list, offering a streamlined approach to task management.</p>
+In the project directory, you can run:
 
-<b>Alert System:</b>
-<p>The project incorporates an alert system to notify users of successful actions or warnings, enhancing the user experience.</p>
-<h2>Components and Structure:</h2>
-<b>App Component:</b>
-<p>Manages the overall state of the application, including the list of tasks, input for new tasks, and alerts.
-Utilizes React Hooks, such as useState for state management.</p>
-<b>Header Component:</b>
+### `npm start`
 
-Responsible for rendering the header section, including the application title and the input form for adding tasks.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-<b>Alert Component:</b>
-<p>Handles the display of temporary alerts based on user actions.</p>
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-<b>Styling:</b>
-<p>The project features a visually appealing layout with well-designed components.
-Utilizes CSS for styling, providing a cohesive and user-friendly interface.</p>
-<h2>Styling Highlights:</h2>
-<b>Color Scheme:</b>
+### `npm test`
 
-<p>The project employs a harmonious color scheme, with shades of purple and pink contributing to a pleasant visual experience.</p>
-<b>Responsive Design:</b>
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-<p>The application includes responsive design elements, ensuring a seamless experience across different devices.</p>
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
