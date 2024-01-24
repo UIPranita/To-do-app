@@ -1,0 +1,105 @@
+#body {
+background-color:#e1aeff;
+}
+
+#header {
+    background-color:#e1aeff;
+    margin-top:25px;
+}
+.headertitle {
+    color: #8604ff;
+    text-align:center;
+    display:flex;
+    padding:2rem;
+    margin-left:35%;
+}
+
+.inputarea{
+    padding:6px;
+    margin-left:20%;
+    border-radius:5px;
+    border: 3px solid #831ce9e3;
+    background-color:#c881f1;
+    color:#fff;
+    width:50%;;
+    margin-bottom:3rem;
+
+}
+
+.addbutton {
+    
+    padding: 9px 15px;
+    background-color: #b35ee4;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 0px 1px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius:4px;
+    font-weight: 500; 
+  }
+
+.addbutton:hover {
+    background-color:#8604ff;;
+    
+    border: 1px solid #df00fd;}
+
+#todoInput {
+    color:white;
+    font-weight:400;
+    font-family: 'Times New Roman', Times, serif;
+}
+  
+.todo-item {
+    margin-bottom: 10px;
+  }
+  
+  .todo-item p {
+     margin-left: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    font-weight: 500;
+    color: #000;
+  }
+  
+  .todo-item button {
+    margin-left: 5px;
+    padding: 5px 10px;
+    background-color: #b35ee4;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: 500;
+    
+  }
+  
+  .todo-item button:hover {
+    background-color: #8604ff;
+    border: 1px solid #df00fd;
+  }
+  
+  .todo-item i {
+    margin-right: 5px;
+  }
+
+  .value{
+    
+    margin-left:5rem;
+    font-size:20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    font-weight:500;
+    color:#000;
+   }
+
+.edit {
+    margin-bottom: 1rem;
+   
+    
+}
