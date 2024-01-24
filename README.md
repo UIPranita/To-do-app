@@ -5,34 +5,32 @@ This React.js TODO List project is a simple yet effective task management applic
 
 <h5>Key Features:</h5>
 Add and Edit Tasks:
-Users can add new tasks to the list through an input field.
-Existing tasks can be edited, with the editing state visually indicated.
-
+<p>Users can add new tasks to the list through an input field.
+Existing tasks can be edited, with the editing state visually indicated.</p>
 
 <b>Delete Tasks:</b>
 <p>Tasks can be removed from the list, offering a streamlined approach to task management.</p>
+
 <b>Alert System:</b>
-
-The project incorporates an alert system to notify users of successful actions or warnings, enhancing the user experience.
-Components and Structure:
+<p>The project incorporates an alert system to notify users of successful actions or warnings, enhancing the user experience.</p>
+<h2>Components and Structure:</h2>
 <b>App Component:</b>
-
-Manages the overall state of the application, including the list of tasks, input for new tasks, and alerts.
-Utilizes React Hooks, such as useState for state management.
+<p>Manages the overall state of the application, including the list of tasks, input for new tasks, and alerts.
+Utilizes React Hooks, such as useState for state management.</p>
 <b>Header Component:</b>
 
 Responsible for rendering the header section, including the application title and the input form for adding tasks.
+
 <b>Alert Component:</b>
+<p>Handles the display of temporary alerts based on user actions.</p>
 
-Handles the display of temporary alerts based on user actions.
 <b>Styling:</b>
-
-The project features a visually appealing layout with well-designed components.
-Utilizes CSS for styling, providing a cohesive and user-friendly interface.
+<p>The project features a visually appealing layout with well-designed components.
+Utilizes CSS for styling, providing a cohesive and user-friendly interface.</p>
 <h2>Styling Highlights:</h2>
 <b>Color Scheme:</b>
 
-The project employs a harmonious color scheme, with shades of purple and pink contributing to a pleasant visual experience.
+<p>The project employs a harmonious color scheme, with shades of purple and pink contributing to a pleasant visual experience.</p>
 <b>Responsive Design:</b>
 
-The application includes responsive design elements, ensuring a seamless experience across different devices.
+<p>The application includes responsive design elements, ensuring a seamless experience across different devices.</p>
