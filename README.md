@@ -1,14 +1,14 @@
 # React.js TODO List Project Summary:
+
 <b>Overview:</b>
 This React.js TODO List project is a simple yet effective task management application. It provides users with a straightforward interface to add, edit, and delete tasks, accompanied by dynamic alert notifications for successful actions and warnings.
 
 <h5>Key Features:</h5>
 Add and Edit Tasks:
-
 Users can add new tasks to the list through an input field.
 Existing tasks can be edited, with the editing state visually indicated.
-Delete Tasks:
 
+<b>Delete Tasks:</b>
 Tasks can be removed from the list, offering a streamlined approach to task management.
 Alert System:
 
