@@ -33,3 +33,5 @@ Utilizes CSS for styling, providing a cohesive and user-friendly interface.</p>
 <b>Responsive Design:</b>
 
 <p>The application includes responsive design elements, ensuring a seamless experience across different devices.</p>
+
+
