@@ -1,4 +1,4 @@
-![Project GIF](My-To-Do-List.gif)
+
 
 
 <p>This React.js TODO List project is a simple yet effective task management application. It provides users with a straightforward interface to add, edit, and delete tasks, accompanied by dynamic alert notifications for successful actions and warnings.</p>
